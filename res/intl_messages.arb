@@ -1,0 +1,21 @@
+{
+  "@@last_modified": "2019-12-18T11:20:39.596232",
+  "appName": "One Day List",
+  "@appName": {
+    "description": "app的名字",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "login",
+  "@login": {
+    "description": "登录",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "EMAIL",
+  "@email": {
+    "description": "邮箱",
+    "type": "text",
+    "placeholders": {}
+  }
+}
